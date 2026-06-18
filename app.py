@@ -153,7 +153,7 @@ html_template = '''
                     <div class="price-installment">12x sem juros no cartão</div>
                 </div>
 
-                <a href="https://wa.me/5511999999999?text=Olá! Vi o NF-R2025E no site e quero saber mais." 
+                <a href="https://wa.me/5511967790963?text=Olá! Vi o NF-R2025E no site e quero saber mais." 
                    class="whatsapp-btn" target="_blank">
                     Falar com a Nefatech no WhatsApp
                 </a>
